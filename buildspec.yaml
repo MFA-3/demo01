@@ -3,7 +3,7 @@ env:
   parameter-store:
     DOCKER_REGISTRY_USERNAME: /myapp/docker/username
     DOCKER_REGISTRY_PASSWORD: /myapp/docker/password
-    DOCKER_REGISTRY_URL: /myapp/docker/url
+    DOCKER_REGISTRY_URL: /myapp/docker/url 
     AWS_ACCOUNT_ID: /myapp/aws/account_id
     AWS_DEFAULT_REGION: /myapp/aws/region
     ECR_REPOSITORY_NAME: /myapp/ecr/repository_name
